@@ -1,0 +1,14 @@
+#安全删除硬件并弹出媒体-Win10
+Windows\System32\zh-CN\DeviceCenter.dll.mui
+Windows\System32\zh-CN\DeviceSetupManager.dll.mui
+Windows\System32\zh-CN\DeviceSetupManagerApi.dll.mui
+Windows\System32\zh-CN\DeviceSetupStatusProvider.dll.mui
+Windows\System32\zh-CN\hotplug.dll.mui
+Windows\System32\DeviceCenter.dll
+Windows\System32\DeviceSetupManager.dll
+Windows\System32\DeviceSetupManagerAPI.dll
+Windows\System32\DeviceSetupStatusProvider.dll
+Windows\System32\DevPropMgr.dll
+Windows\System32\hotplug.dll
+Windows\System32\wmiclnt.dll
+Windows\SystemResources\DeviceCenter.dll.mun
