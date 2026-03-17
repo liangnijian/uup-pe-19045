@@ -9,6 +9,10 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      - name: 检查是否生成了 ISO
+        run: if not exist *.iso (exit /b 1)
+        shell: cmd
+
       - name: 整合 uup
         run: .\auto-run.cmd uup
         shell: cmd
